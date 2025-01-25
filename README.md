@@ -25,4 +25,7 @@ The required tools for running this python file are:-
 2.) The process was too fast for capturing on video so adding time.sleep() wherever needed.
 3.) Removing element made the first item to be removed which was the highest dollar amount and not withing the limits informed on the instruction. (fixed)
 
+## Video Implementation
+[https://drive.google.com/file/d/1gUBxcIMGa0_6JTHjatEE8mRWIrOUmFSv/view?usp=drive_link](https://drive.google.com/file/d/1gUBxcIMGa0_6JTHjatEE8mRWIrOUmFSv/view?usp=drive_link)
+
 
